@@ -26,8 +26,8 @@ public class DamageCalculation {
     private int damageBonus;
     
     
-    //damage calculation code switch statement version
-    public String calcDamageSwitch(){
+    //damage calculation code
+    public String calcDamage(){
         int ac;
         float avgDamage = 0;
         float avgCalculator = 0;
